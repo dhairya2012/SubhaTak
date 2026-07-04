@@ -3,7 +3,7 @@
 > Stay informed with the latest headlines from around the world. **SubhaTak** is a modern Android news application built using **Kotlin** and the traditional **XML View System**, following the **MVVM architecture** and Material Design principles to deliver a fast, clean, and intuitive news reading experience.
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" alt="SubhaTak Banner" width="900"/>
+  <img src="app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" alt="SubhaTak Banner" width="90"/>
 </p>
 
 <p align="center">
